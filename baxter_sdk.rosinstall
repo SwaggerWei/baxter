@@ -18,3 +18,7 @@
     local-name: baxter_examples
     uri: https://gitee.com/hankfirst/baxter_examples.git
     version: master
+- git:
+    local-name: baxter_examples
+    uri: https://gitee.com/hankfirst/baxter_simulator.git
+    version: master
